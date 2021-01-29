@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4999" started-at="2021-01-28T23:33:56 CST" finished-at="2021-01-28T23:34:01 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4999" started-at="2021-01-28T23:33:56 CST" finished-at="2021-01-28T23:34:01 CST">
+      <class name="pac1.POST_AddBook">
+        <test-method status="PASS" signature="addBookTest()[pri:0, instance:pac1.POST_AddBook@6ee52dcd]" name="addBookTest" duration-ms="4962" started-at="2021-01-28T23:33:56 CST" finished-at="2021-01-28T23:34:01 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBookTest -->
+      </class> <!-- pac1.POST_AddBook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
